@@ -1,4 +1,4 @@
-const billingAddressService = require("../Services/billingAddress.service");
+const billingAddressService = require("../services/billingAddress.service");
 
 // Create and Save a new Billing Address
 exports.create = (req, res, next) => {
