@@ -1,5 +1,5 @@
 const MONGO_DB_CONFIG = {
-    DB: "mongodb://127.0.0.1:27017/billy",
+    DB: "mongodb+srv://billydb:MA1Dpxc7m1l3ie0t@billy-cluster.tc1bdgv.mongodb.net/?retryWrites=true&w=majority",
     PAGE_SIZE: 10
 };
 
